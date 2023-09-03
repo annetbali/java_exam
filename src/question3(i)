@@ -1,0 +1,14 @@
+a) Inheritance
+This refers a process in which a child class acquires the properties of a parent class.
+
+b) Encapsulation
+This refers to the process of hiding sensitive data from users.
+
+c) Polymorphism
+This is the process of overriding the method from a supper class to the subclasses.
+
+d) Object
+An object is an instance of a class.
+
+e) Constructor
+A constructor refers to a method used to initialise attributes of a class.

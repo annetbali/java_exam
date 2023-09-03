@@ -1,0 +1,8 @@
+Private modifier;
+A private modifier is an access modifier which can be accessed with in the same class and not outside that class.
+
+Public access modifier;
+A public access modifier is a modifier which can be accessed anywhere that is to say within and outside a class.
+
+Protected modifier;
+A protected modifier refers to a modifier which can be accessed within a package and outside that package.
